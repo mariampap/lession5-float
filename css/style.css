@@ -1,7 +1,37 @@
-.image{
-	float: right;
+/*article section*/
+.section1 {
+	background-color: white;
+	height: 536px;
 }
-.text {
-	float: left;
-	width: 600px;
+.clear {
+	clear: both;
+}
+.container1{
+	width: 1088px;
+	margin: 56px auto;
+}
+
+.container2{
+	width: 1088px;
+	margin: 16px auto;
+}
+.left-block {
+	width: 536px;
+	height: 190px;
+	background-color:#F8F8F8;
+	float:left;
+}
+.right-block {
+	width: 536px;
+	height: 190px;
+	background-color:#F8F8F8;
+	float:right ;
+}
+/*images section*/
+.section2 {
+	background-color: white;
+	height: 1424px;
+}
+.box-image {
+	float:left;
 }

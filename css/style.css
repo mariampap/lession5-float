@@ -1,37 +1,124 @@
-/*article section*/
-.section1 {
-	background-color: white;
-	height: 536px;
+/*article section1*/
+.header-wraper{
+	width: 1200px;
+	margin: 0 auto;
+}
+.section-title1{
+	margin: 82px 1px 0 0;
+	font-size: 14px;	
+	font-family: 'Poppins';
+	font-weight: bold;
+	color: #5863F8;
+}
+.section-title2{	
+	width: 498px;
+	margin-bottom: 56px;
+	margin-top: 17px;
+	font-size: 42px;
+	font-family: 'Poppins';	
+	font-weight: bold;
+}
+.left-block1{
+	float: left;
+	margin-right: 16px;
+	margin-bottom: 16px;
+	width: 536px;
+	background-color: #F8F8F8;
+}
+.right-block1{
+	float: left;
+	width: 536px;
+	background-color: #F8F8F8;
+}
+.descriprion{
+	float: left;
+	width: 240px;
+}
+.image{
+	float: left;
+	width: 168px;
+	height: 190px;
+	margin-right: 16px;
+}
+.title1{
+	font-size: 14px;
+	font-family: 'Poppins';
+	font-weight: bold;
+	margin-top: 37px; 	
+	color: #5863F8;
+}
+.title2{
+	font-size: 18px;
+	font-family: 'Poppins';
+	font-weight: 600;
+	margin-bottom: 10px;
+}
+.paragraph{
+	font-size: 14px;	
+	font-family: 'Poppins';
+	font-weight: 300;
+	line-height: 15px;
+	color: #B1B1B1;
 }
 .clear {
 	clear: both;
 }
-.container1{
-	width: 1088px;
-	margin: 56px auto;
+/*Section2*/
+.block1{
+	float: left;
+	background-color: #F8F8F8;
+	width: 352px;
+    margin-right: 16px;
 }
+.block2{
+	float: left;
+	background-color: #F8F8F8;
+	width: 352px;	
+}
+.left-block2{
+	margin-right: 16px;
+}
+.middle-block{
+	margin-right: 16px;
+}
+.title3{
+	font-size: 14px;
+	font-family: 'Poppins';
+	font-weight: bold;
+	color: #5863F8;
+	padding: 23px 125px 5px 125px; 
+}
+.title4{
+	font-size: 18px;
+	font-family: 'Poppins';
+	font-weight: 600;
+	padding: 0 60px 10px 60px;
+}
+.paragraph1{	
+	font-size: 14px;
+	font-family: 'Poppins';
+	font-weight: 100;
+	color: #B1B1B1;
+    padding: 0 46px 23px 46px;
+    text-align: center;
+}
+.image2{
+	height: 212px;
+	width: 352px;
+}
+.title-middle{
+	padding: 23px 142px 5px 142px;
 
-.container2{
-	width: 1088px;
-	margin: 16px auto;
 }
-.left-block {
-	width: 536px;
-	height: 190px;
-	background-color:#F8F8F8;
-	float:left;
+.middle{
+	padding: 0 72px 10px 72px;
+
 }
-.right-block {
-	width: 536px;
-	height: 190px;
-	background-color:#F8F8F8;
-	float:right ;
-}
-/*images section*/
-.section2 {
-	background-color: white;
-	height: 1424px;
-}
-.box-image {
-	float:left;
+.last{
+	padding: 23px 152px 5px 152px;
+
+} 
+.last1{
+	padding: 0 91px 10px 91px;
+
 }
